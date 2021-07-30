@@ -7,5 +7,5 @@
 
 ## Скриншот приложения
 
-![screenshot_slider](https://imgur.com/gv3VEsb)
+![screenshot_slider](https://i.imgur.com/zY2FOrF.png)
 # imgur.com ресурс для загрузки скриншотов
